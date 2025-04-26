@@ -1,0 +1,14 @@
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.AssemblyInfoInputs.cache
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.AssemblyInfo.cs
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.csproj.CoreCompileInputs.cache
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\bin\Debug\net9.0\ProyectoPhone.exe
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\bin\Debug\net9.0\ProyectoPhone.deps.json
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\bin\Debug\net9.0\ProyectoPhone.runtimeconfig.json
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\bin\Debug\net9.0\ProyectoPhone.dll
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\bin\Debug\net9.0\ProyectoPhone.pdb
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.dll
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\refint\ProyectoPhone.dll
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.pdb
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ProyectoPhone.genruntimeconfig.cache
+E:\LAPTOP\DOCUMENTOS\ProyectoPhone\ProyectoPhone\obj\Debug\net9.0\ref\ProyectoPhone.dll
